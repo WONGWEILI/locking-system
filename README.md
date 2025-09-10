@@ -11,6 +11,12 @@ The project simulates a lock/unlock mechanism with LEDs and switches using **MCU
 
 ---
 
+## 🎥 Demo Video
+
+[▶️ Watch Demo on Google Drive](https://drive.google.com/file/d/13YdSt6yeTqxsM25vRbTgH8j9UWw-v9wi/view?usp=sharing)
+
+---
+
 ## ⚙️ Explanation on Operation
 
 This system is an electronic locking mechanism that uses LEDs and switches to simulate lock/unlock with password verification.
