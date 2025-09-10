@@ -5,6 +5,12 @@ The project simulates a lock/unlock mechanism with LEDs and switches using **MCU
 
 ---
 
+## 🖼️ Circuit Diagram
+
+<img src="image/circuit_diagram.png" alt="Circuit Diagram" width="500"/>
+
+---
+
 ## ⚙️ Explanation on Operation
 
 This system is an electronic locking mechanism that uses LEDs and switches to simulate lock/unlock with password verification.
